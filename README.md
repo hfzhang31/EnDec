@@ -1,1 +1,1 @@
-# Jailbreak open-sourced Large Language Models via Enforced Decoding
+# Jailbreak Open-Sourced Large Language Models via Enforced Decoding
